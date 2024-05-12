@@ -1,0 +1,11 @@
+[
+    {
+        "model": "Model D",
+        "configurations": {
+            "cpu": "Intel Core i5",
+            "gpu": "AMD Radeon RX 580",
+            "memory": "8GB DDR4",
+            "storage": "1TB SSD"
+        }
+    }
+]

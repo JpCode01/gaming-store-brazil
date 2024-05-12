@@ -1,0 +1,11 @@
+[
+    {
+        "model": "Model A",
+        "configurations": {
+            "cpu": "Intel Core i7",
+            "gpu": "Nvidia GeForce RTX 3080",
+            "memory": "32GB DDR4",
+            "storage": "1TB SSD"
+        }
+    }
+]

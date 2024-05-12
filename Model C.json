@@ -1,0 +1,11 @@
+[
+    {
+        "model": "Model C",
+        "configurations": {
+            "cpu": "AMD Ryzen 7",
+            "gpu": "Nvidia GeForce RTX 2060 Super",
+            "memory": "16GB DDR4",
+            "storage": "1TB SSD"
+        }
+    }
+]
