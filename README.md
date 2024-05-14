@@ -17,7 +17,7 @@ https://github.com/JpCode01/gaming-store-brazil/assets/165571084/f4aa4b06-3d12-4
 
 <br>
 
-## ✔️ Técnicas e Funcinalidades
+## ✔️ Técnicas
 <br>
 <div style="display: inline_block">
   <img align="center" alt="jp-Python" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
