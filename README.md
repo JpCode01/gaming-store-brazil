@@ -1,10 +1,10 @@
-## GAMING STORE BRAZIL
+![ezgif-4-bae5a8b8c9](https://github.com/JpCode01/gaming-store-brazil/assets/165571084/ea3c8dce-bb58-49b0-b10c-fff3f6ce3a1e)
 
 <p align="left">
 <img loading="lazy" src="https://img.shields.io/badge/STATUS-FINALIZADO-GRAY?style=for-the-badge"/>
 </p>
 
-<p style="font-size: 15;">  Esse projeto é referente a uma simulação de uma plataforma de vendas de computadores. Foi desenvolvido a partir dos conhecimentos gerados pela plataforma Alura e consumo de API.
+<p style="font-size: 15;">  Gaming Store Brazil é um projeto de simulação de uma loja virtual especializada em computadores gamers. Este projeto foi desenvolvido com o objetivo de praticar manipulação simples de dados e lógica, utilizando arquivos JSON para gerenciar as informações de produtos.
 </p>
 
 ## 🔨 Funcionalidades do projeto
@@ -17,17 +17,12 @@ https://github.com/JpCode01/gaming-store-brazil/assets/165571084/f4aa4b06-3d12-4
 
 <br>
 
-## ✔️ Técnicas
-<br>
+## ✔️ Tecnologias
 <div style="display: inline_block">
-  <img align="center" alt="jp-Python" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-
+  <img align="center" alt="jp-Python" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
 ## Autores
-<br>
-
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/165571084?s=400&u=1ee1c679eda8112d1334f93a326df74fda32ee1d&v=4" width=115>
-  <a href:"https://github.com/JpCode01"><u><br>                             
-        ㅤJoão Pedro</u></a>
-</img> 
+
+[João Pedro Vaz Garbin](https://github.com/JpCode01)
